@@ -4,7 +4,7 @@
 - 📧 E-Mail: thuanvt090899@gmail.com
 
 | ![nauhtxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=nauhtXD&show_icons=true&theme=aura) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauhtXD&layout=compact&theme=aura) |
-|-|-|
+|:-:|:-:|
 
 
 <!---
