@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nauhtxD
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Java Spring Boot
-* 📫 How to reach me:
+- 📫 How to reach me:
   * 📧 E-Mail: thuanvt090899@gmail.com
 
 <!---
@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/artart222/artart222/output/github-contribution-grid-snake.svg" alt="artart222" />
 </p>
 
-Source <a href="https://github.com/artart222">[artart222]</a>
+README template by <a href="https://github.com/artart222">artart222</a>
